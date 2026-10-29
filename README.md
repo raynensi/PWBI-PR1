@@ -169,6 +169,9 @@ Through this project, I practiced:
 5. Build a dashboard to summarize performance.
 6. Review the results and document your business insights.
 
+## video recording link is here:
+https://drive.google.com/file/d/1KEDwEq2HUGsZ535TVZj1ejwBuaPM_56R/view?usp=drive_link   
+
 ## 🎯 Final Outcome
 
 This project demonstrates how retail transaction data can be transformed into useful business information. By analyzing sales, profit, customer segments, products, and regional performance, the project supports a clearer understanding of retail operations and potential areas for improvement.
